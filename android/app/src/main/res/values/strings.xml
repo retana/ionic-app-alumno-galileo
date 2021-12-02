@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EjemploDeClase</string>
+    <string name="title_activity_main">EjemploDeClase</string>
+    <string name="package_name">edu.galileo.ionic.retana</string>
+    <string name="custom_url_scheme">edu.galileo.ionic.retana</string>
+</resources>

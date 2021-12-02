@@ -1,0 +1,6 @@
+{
+	"appId": "edu.galileo.retana",
+	"appName": "EjemploDeClase",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
